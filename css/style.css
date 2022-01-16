@@ -14,7 +14,6 @@ body {
 }
 .header {
    height: 100vh;
-   border: 1px solid black;
 }
 .nav {
    padding: 22px 0;
@@ -33,7 +32,6 @@ body {
  .menu_item:hover .menu_link {
    color: #070707;
  }
- 
  .menu_link {
    text-decoration: none;
    color: #828282;
@@ -47,4 +45,18 @@ body {
  .banner img {
     width: 100%;
  }
+ section.about {
+    padding: 105px 0 100px 0;
+    background-color: #F6F6F6;
+    text-align: center;
+}
+.tittle-2 {
+   margin-bottom: 30px;
+}
+.about-info:nth-child(-n+3) {
+   max-width: 480px;
+   margin: 0 auto;
+   text-align: center;
+   margin-bottom: 50px;
+}
 
