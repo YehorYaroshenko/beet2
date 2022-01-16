@@ -90,5 +90,24 @@ section.skills {
    width: 26px;
    height: 26px;
    margin: 0 4px 0 4px;
-
+}
+section.portfolio {
+   padding: 118px 0 100px 0;
+   background-color: #F6F6F6;
+   text-align: center;
+}
+.store-img {
+   margin-top: 70px;
+}
+.reebok-img {
+   margin-top: 130px;
+}
+.braun-img {
+   margin-top: 135px;
+}
+.store-info, .reebok-info, .braun-info {
+   font-style: 18px;
+   color: #070707;
+   margin-top: 15px;
+   text-decoration: underline;
 }
