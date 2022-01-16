@@ -40,4 +40,11 @@ body {
    text-shadow: 1px 2px 2px #d4e3e7;
    transition: color 0.2s;
  }
+ .banner-info {
+    font-weight: 700;
+    margin: 40px 0;
+ }
+ .banner img {
+    width: 100%;
+ }
 
