@@ -50,7 +50,7 @@ body {
     background-color: #F6F6F6;
     text-align: center;
 }
-.tittle-2 {
+.about .tittle-2 {
    margin-bottom: 30px;
 }
 .about-info:nth-child(-n+3) {
@@ -59,4 +59,36 @@ body {
    text-align: center;
    margin-bottom: 50px;
 }
+section.skills {
+   padding: 100px 0 85px 0;
+   text-align: center;
+}
+.skills .tittle-2 {
+   margin-bottom: 40px;
+}
+.skills-info {
+   margin-bottom: 80px;
+}
+.programs {
+   text-align: center;
+}
+.photoshop, .illustrator, .a-effects, .figma {
+   display: inline-block;
+   width: 25%;
+   margin-right: -4px;
+}
+.programs img {
+   margin-bottom: 20px;
+}
+.programs-name {
+   font-size: 14px;
+   color: #828282;
+   margin-bottom: 60px;
+   height: 26px;
+}
+.stars img {
+   width: 26px;
+   height: 26px;
+   margin: 0 4px 0 4px;
 
+}
